@@ -18,7 +18,7 @@ $PythonExe = "C:\work\msb_export\.venv\Scripts\python.exe"
 $OutDir = "$env:USERPROFILE\OneDrive - Enpal B.V\Desktop\pg_access_audit"
 
 # >>> PASTE PASSWORD HERE (locally) <<<
-$Password =  "vT4IwrGOUD_FTL7gjtUc!XvJRmYzWG821c5f7xjeN-FsVoX4xJL7Swh2IaBxPY28"
+$Password =  " "
 
 # --- END CONFIG ---
 
