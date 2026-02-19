@@ -11,11 +11,11 @@ from sqlalchemy.engine import URL
 # =========================================================
 
 PUB_CONF = {
-    "HOST": "enpal-msb-core-prd-msb-core-sc-postgres.postgres.database.azure.com",
-    "PORT": 5432,
-    "DB": "msb-core",
-    "USER": "bianca.bauer.mex",
-    "PWD": "vT4IwrGOUD_FTL7gjtUc!XvJRmYzWG821c5f7xjeN-FsVoX4xJL7Swh2IaBxPY28",
+    "HOST": " .com",
+    "PORT":  ,
+    "DB": " ",
+    "USER": " ",
+    "PWD": " ",
     "SSL_MODE": "require",
     "SCHEMA": "public",
     "TABLES": [
@@ -34,11 +34,11 @@ PUB_CONF = {
 }
 
 PRE_CONF = {
-    "HOST": "enpal-msb-core-prd-msb-core-sc-postgres.postgres.database.azure.com",
-    "PORT": 5432,
-    "DB": "msb-core",
-    "USER": "bianca.bauer.orders",
-    "PWD": "feo6yeTSYu1qthM8mGLp-AufezN1xQIpqS!sbht45qD01F_TrH2SKVuw7JGMDdBk",
+    "HOST": " ",
+    "PORT":  ,
+    "DB": "  ",
+    "USER": "  ",
+    "PWD": " ",
     "SSL_MODE": "require",
     "SCHEMA": "pre",
     "TABLES": ["Leads"],
